@@ -11,6 +11,11 @@
 
 ## 1> K-Nearest Neighbor Methods
 > keywords: K, distance, ties, NaN, **K-D_Trees**(booster)
+ - One of the great things about KNN is that we can add in new data to update the model very easily!
+ <img src="https://user-images.githubusercontent.com/31917400/54114310-08c04900-43e2-11e9-8f11-167901c26ff2.jpg" />
+
+
+
 
 
 
