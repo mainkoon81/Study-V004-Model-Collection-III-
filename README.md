@@ -34,10 +34,8 @@
 ### a) Classification
 <img src="https://user-images.githubusercontent.com/31917400/54120609-09f87280-43f0-11e9-821c-7eb0eadf0812.jpg" />
 
-
-
-
 ### b) Regression
+<img src="https://user-images.githubusercontent.com/31917400/54137775-2ad3be80-4416-11e9-87c3-f91dee1760b1.jpg" />
 
 
 
