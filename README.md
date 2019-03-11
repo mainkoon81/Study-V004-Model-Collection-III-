@@ -9,6 +9,8 @@
  - It makes fewer assumptions about the data. 
  - It is computationally slower.
 
+## 1> K-Nearest Neighbor Methods
+> keywords: K, distance, ties, NaN, **K-D_Trees**(booster)
 
 
 
