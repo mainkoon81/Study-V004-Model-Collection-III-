@@ -31,10 +31,13 @@
    - No missing data allowed. All points are considered. 
    - Expensive computation. Need to store all training data points. Need to compute distance to all other points.   
 
-### Classification
+### a) Classification
+<img src="https://user-images.githubusercontent.com/31917400/54120609-09f87280-43f0-11e9-821c-7eb0eadf0812.jpg" />
 
 
-### Regression
+
+
+### b) Regression
 
 
 
