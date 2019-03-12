@@ -59,7 +59,7 @@ Let's say we have a new data pt to classify. And we are going to use "K" other n
 
  - **Other Issues**
    - What if..the same number of votes from different classes?
-     - In binary case, this can often happen when K is even number. Odd doesn't work if multiclass classification. 
+     - In binary case, this can often happen when K is even number. Odd doesn't work when it comes to multiclass classification. 
      - `Breaking ties:`
        - Pick class with **greater prior**(most probable)
        - Use K=1..Voronoi tesselation
