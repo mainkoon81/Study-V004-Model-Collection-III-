@@ -80,7 +80,7 @@ __[KD_tree]:__
 
 Let's say we have 2 dimensional, continuous values..so K-Dimensional_tree!
  - 1.Pick a random feature
- - 2.find its **`median`**
+ - 2.find its **`median`** data pt !
  - 3.split
  - Repeat...
 <img src="https://user-images.githubusercontent.com/31917400/54167887-dfe09800-4463-11e9-93ae-616b076ef7b7.jpg" />
