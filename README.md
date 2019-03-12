@@ -73,7 +73,17 @@ Let's say we have a new data pt to classify. And we are going to use "K" other n
 <img src="https://user-images.githubusercontent.com/31917400/54137775-2ad3be80-4416-11e9-87c3-f91dee1760b1.jpg" />
 
 ### c) How to improve speed? 
-__[KD tree]:__ 
+__[KD_tree]:__ 
+ - if low dimensional, continuous values w/o "0", then try **KD_tree**
+ - if high dimensional, discrete or sparse values, then try **inverted_lists**
+ - if high dimensional, continuous/discrete values, then try **locality sensitive hashing**
+
+Let's say we have 2 dimensional, continuous values..so K-Dimensional_tree!
+ - 1.Pick a random feature
+ - 2.find its median
+ - 3.split
+ - Repeat...
+<img src="https://user-images.githubusercontent.com/31917400/54167887-dfe09800-4463-11e9-93ae-616b076ef7b7.jpg" />
 
 
 
