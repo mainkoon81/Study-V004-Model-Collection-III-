@@ -38,12 +38,11 @@ Let's say we have a new data pt to classify. And we are going to use "K" other n
      - Cross-validation 
      
  - **Distance measure**
- <img src="https://user-images.githubusercontent.com/31917400/54166587-ce948d00-445d-11e9-8dc9-e379be3ec781.jpg" />
-
-   - To define which point is closer.
+   <img src="https://user-images.githubusercontent.com/31917400/54166587-ce948d00-445d-11e9-8dc9-e379be3ec781.jpg" />
+   - Which point is closer?
    - **Euclidean** for numeric attributes: treat all dimensions equally
    - **Hamming** for categoric attributes: gives how many matches..(match:1 / unmatch:0)
-   - **Minkowski**(generalized Euclidean): Based on **P**, output vary, and it changes geometry of space.  
+   - **Minkowski**(generalized Euclidean): Based on **P**, output varies, and it changes geometry of space.  
  
  - **Weighted KNN**
    - Some inputs are more relevant than others. How to? 
@@ -58,7 +57,7 @@ Let's say we have a new data pt to classify. And we are going to use "K" other n
    - Unlike Decision tree or NaiveBayes, No missing data allowed because all points are considered. 
    - Expensive computation. Need to store all training data points. Need to compute distance to all other points.   
 
- - **Issue**
+ - **Other Issues**
    - What if..the same number of votes from different classes?
      - In binary case, this can often happen when K is even number. Odd doesn't work if multiclass classification. 
      - `Breaking ties:`
