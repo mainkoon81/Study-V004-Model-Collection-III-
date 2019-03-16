@@ -49,13 +49,17 @@ Let's say we have a new data pt to classify. And we are going to use "K" other n
    
  
  - **(+)** of KNN
-   - Add in new data to update the model very easily!
+   - Add in new data to update the model very easily! Since the algorithm requires no training before making predictions, new data can be added seamlessly. 
    - VOTING(for classification) is damn easy. AVG(for regression) is damn easy
-   - Works well with both categorical and numerical data
+   - Works well with both categorical and numerical data ????  doesn't work well with categorical features since it is difficult to find the distance between dimensions with categorical features ???
+   - There are only two parameters required to implement KNN 
+     - the value of K 
+     - the distance function (e.g. Euclidean or Manhattan etc.)
  - **(-)** of KNN
    - Too sensitive to irrelevant features(outliers or mislabeled) and the scale of the data
+   - Doesn't work well with high dimensional data because with large number of dimensions, it becomes difficult for the algorithm to calculate distance in each dimension.
    - Unlike Decision tree or NaiveBayes, No missing data allowed because all points are considered. 
-   - Expensive computation. Need to store all training data points. Need to compute distance to all other points.   
+   - Expensive computation. Need to store all training data points. Need to compute distance to all other points. It has a high prediction cost for large datasets. This is because in large datasets the cost of calculating distance between new point and each existing point becomes higher.   
 
  - **Other Issues**
    - What if..the same number of votes from different classes?
