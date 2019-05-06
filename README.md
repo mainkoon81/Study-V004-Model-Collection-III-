@@ -31,9 +31,9 @@ Let's say we have a new data pt to classify. And we are going to use "K" other n
  - **Choosing k**
    - Affecting smoothness of decision surf, and its output as well. 
    - If K is too small:
-     - gives inconsistent output due to high variability
+     - gives inconsistent output due to high variability (overfitting)
    - If K is too large:
-     - gives unnecessarily stable prior probability coz it considers whole datapoint and always bigger size(the most probable) class will win.
+     - gives unnecessarily stable prior probability coz it considers whole datapoint and always bigger size(the most probable) class will win (underfitting)
    - Then how to pick K?
      - Cross-validation 
      
