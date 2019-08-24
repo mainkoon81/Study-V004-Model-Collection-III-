@@ -88,8 +88,19 @@ Let's say we have 2 dimensional, continuous values..so K-Dimensional_tree!
  - Repeat...
 <img src="https://user-images.githubusercontent.com/31917400/54167887-dfe09800-4463-11e9-93ae-616b076ef7b7.jpg" />
 
+----------------------------------------------------------------------------------------------------------------
+## 2> Decision Trees
+<img src="https://user-images.githubusercontent.com/31917400/63635892-f2d8d480-c65f-11e9-8407-0c9ab60ac8cd.jpg" />
 
+<img src="https://user-images.githubusercontent.com/31917400/63635895-f8ceb580-c65f-11e9-982c-8ee6a19b8098.jpg" />
 
+<img src="https://user-images.githubusercontent.com/31917400/63635896-f9674c00-c65f-11e9-88e1-938e8585aaae.jpg" />
+
+<img src="https://user-images.githubusercontent.com/31917400/63635897-f9674c00-c65f-11e9-8d74-4d2c66b99a53.jpg" />
+
+<img src="https://user-images.githubusercontent.com/31917400/63635898-f9674c00-c65f-11e9-87c1-20bf10ef2976.jpg" />
+
+<img src="https://user-images.githubusercontent.com/31917400/63635899-f9674c00-c65f-11e9-90d4-046d002efe3f.jpg" />
 
 
 
