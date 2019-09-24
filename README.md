@@ -1,4 +1,4 @@
-# Non-Parametric Models
+## Non-Parametric Models
 <img src="https://user-images.githubusercontent.com/31917400/54094265-9a569900-4397-11e9-9606-5c31b30cb7a6.jpg" />
 
 > **Parametric Models**
