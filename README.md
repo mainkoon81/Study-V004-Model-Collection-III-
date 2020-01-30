@@ -8,7 +8,7 @@
  - It uses a flexible number of parameters, and the number of parameters often grows as it learns from more data.
  - It makes fewer assumptions about the data and does not make any assumptions on the underlying data distribution, so can be the first choices for a classification study when there is little or no prior knowledge about the distribution of data. 
    - "Let the data speak for itself."
- - It is computationally slower.
+ - It is computationally slower
 
 ## 1> K-Nearest Neighbor Methods
 Let's say we have a new data pt to classify. And we are going to use "K" other neighbor data pts around the protagonist data pt. Then vote. Which neighbor data pts would claim this protagonist data pt? Ask you neighbors.
